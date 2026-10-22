@@ -1,12 +1,14 @@
-## Hey, I'm Lua! 👋
+<h1 align="center"> Hi, I'm Lua! 👋 </h1>
 
-I'm a Brazil-based aspiring game developer and programmer with a background in 3D art and animation.
-I enjoy building interactive projects, experimenting with gameplay mechanics, and exploring new areas of software development.
+<h4 align="center"> I'm a game developer focused on gameplay programming, with experience in 3D art and animation. <br>
+I enjoy bringing ideas to life through interactive experiences and exploring new areas of software development. </h4>
 
-#What I'm working on
-- 🎮 Game development with C#, Unity, Godot and GDScript
-- 💻 Learning web development with HTML, CSS and JavaScript
-- 🎨 3D art and animation with Blender
+<br>
+<h3 align="center"> What I'm working on: </h3> 
+<h4 align = "center"> 
+🧊 Expanding my 3D art portfolio with Blender<br>
+🎮 Game development with Unity (C#) and Godot (GDScript)<br>
+💻 Learning web development with HTML, CSS, and JavaScript
+</h4>
 
-#Find me elsewhere
-- https://itch.io/profile/luaalua
+<h4 align = "center">⚡You can find some of my games on <a href="https://itch.io/profile/luaalua">itch.io</a> </h4>
