@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Lua! 👋
 
-<!--
-**ThatLua/ThatLua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Brazil-based aspiring game developer and programmer with a background in 3D art and animation.
+I enjoy building interactive projects, experimenting with gameplay mechanics, and exploring new areas of software development.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Game development with C#, Unity, Godot and GDScript
+- 💻 Learning web development with HTML, CSS and JavaScript
+- 🎨 3D art and animation with Blender
+
+## Find me elsewhere
+- [itch.io](https://itch.io/profile/luaalua)
